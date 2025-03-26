@@ -107,16 +107,20 @@ ORDER BY Total_Revenue DESC
 LIMIT 1;
  
 ```
+
 ## 📊 Key Insights
 ✅ The highest-selling pizza is the one with the most total orders.
 ✅ The most common order day helps understand peak sales times.
 ✅ The most popular pizza size affects pricing strategy.
 ✅ The average order value provides insights into customer spending behavior.
 
+
 ## 📌 Conclusion
 This SQL-based Pizza Sales Analysis helps in understanding sales trends, customer preferences, and revenue patterns. These insights can be used to improve marketing strategies and optimize sales.
 
-📂 Project Repository
+
+## 📂 Project Repository
 📌 GitHub Link: [Your GitHub Repository Here]
 
-📢 Feel free to fork, use, or suggest improvements! 🚀
+
+## 📢 Feel free to fork, use, or suggest improvements! 🚀
