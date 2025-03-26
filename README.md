@@ -126,3 +126,13 @@ SELECT category, pizza_type, total_revenue, rnk
 FROM PizzaRevenue  
 WHERE rnk <= 3  
 ORDER BY category, rnk;
+
+📊 Key Insights
+✔ The most popular pizza size is determined.
+✔ The top-selling pizza types drive the most revenue.
+✔ The most profitable time slots for orders are identified.
+✔ The average order value (AOV) provides pricing strategy insights.
+✔ The revenue contribution of different pizza categories is analyzed.
+
+📢 Conclusion
+This SQL analysis provides crucial insights for business owners to optimize their menu, pricing, and marketing strategies to maximize revenue and customer satisfaction.
