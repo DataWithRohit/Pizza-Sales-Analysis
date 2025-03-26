@@ -126,9 +126,8 @@ SELECT category, pizza_type, total_revenue, rnk
 FROM PizzaRevenue  
 WHERE rnk <= 3  
 ORDER BY category, rnk;
-
---- 
-📊 Key Insights
+ 
+## 📊 Key Insights
 ✔ The most popular pizza size is determined.
 ✔ The top-selling pizza types drive the most revenue.
 ✔ The most profitable time slots for orders are identified.
