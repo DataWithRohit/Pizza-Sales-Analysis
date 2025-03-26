@@ -121,7 +121,8 @@ This SQL-based Pizza Sales Analysis helps in understanding sales trends, custome
 
 
 ## 📂 Project Repository
-📌 GitHub Link:(GitHub)[https://github.com/DataWithRohit/Pizza-Sales-Analysis]
+📌 - GitHub Link: [Pizza-Sales-Analysis](https://github.com/DataWithRohit/Pizza-Sales-Analysis)
+
 
 
 ## 📢 Feel free to fork, use, or suggest improvements! 🚀
