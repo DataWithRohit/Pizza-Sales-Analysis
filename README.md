@@ -109,10 +109,11 @@ LIMIT 1;
 ```
 
 ## 📊 Key Insights
--- ✅ The highest-selling pizza is the one with the most total orders.
--- ✅ The most common order day helps understand peak sales times.
--- ✅ The most popular pizza size affects pricing strategy.
--- ✅ The average order value provides insights into customer spending behavior.
+✅ The highest-selling pizza is the one with the most total orders.  
+✅ The most common order day helps understand peak sales times.  
+✅ The most popular pizza size affects pricing strategy.  
+✅ The average order value provides insights into customer spending behavior.
+
 
 
 ## 📌 Conclusion
