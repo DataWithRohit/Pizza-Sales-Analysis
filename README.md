@@ -13,7 +13,7 @@ The dataset consists of the following tables:
 
 ## 🛠️ SQL Queries and Solutions  
 
-```sql `
+```sql 
 -- 1️⃣ Group the orders by date and calculate the average number of pizzas ordered per day.
 SELECT o.order_date, AVG(od.quantity) AS Avg_Pizzas_Ordered  
 FROM orders o  
@@ -104,15 +104,16 @@ JOIN order_details od ON o.order_id = od.order_id
 JOIN pizzas p ON od.pizza_id = p.pizza_id  
 GROUP BY TO_CHAR(order_date, 'Month')  
 ORDER BY Total_Revenue DESC  
-LIMIT 1; 
-
-📊 Key Insights
+LIMIT 1;
+ 
+```
+## 📊 Key Insights
 ✅ The highest-selling pizza is the one with the most total orders.
 ✅ The most common order day helps understand peak sales times.
 ✅ The most popular pizza size affects pricing strategy.
 ✅ The average order value provides insights into customer spending behavior.
 
-📌 Conclusion
+## 📌 Conclusion
 This SQL-based Pizza Sales Analysis helps in understanding sales trends, customer preferences, and revenue patterns. These insights can be used to improve marketing strategies and optimize sales.
 
 📂 Project Repository
